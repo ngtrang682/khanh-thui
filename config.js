@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Iu nhìu nắmmmmmm  💖💖💖',
     btnNo: 'Không hề nha cái con mông to! 💔 ',
     question:'Mintren iu em nhìu nắm. Còn bẹn thúi 😊😊',
-    reasonPlaceholder: 'Lý do',
+    reasonPlaceholder: 'bởi em iu mintren nạ',
     btnReply: 'Gởi ! 💌💌',
     reply: 'Hy hy dạaa iuuuu emmmm 😊😊',
     mess: 'Mintren thítttt bạn Khánh Linh Thúi nhìu nắmmm 🥰. Trụt trụtt trụttt 😘😘',
